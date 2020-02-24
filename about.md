@@ -1,7 +1,9 @@
 ---
-layout: main-page
+layout: page
 title: About Coding With Noah
 ---
+
+# About Coding With Noah
 
 ## Why?
 

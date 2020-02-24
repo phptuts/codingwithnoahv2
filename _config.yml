@@ -56,11 +56,17 @@ texture:
   tagline: Coding With Noah
   date_format: "%b %-d, %Y"
   style: blue
+  showNav: true
+  show_excerpts: true
 
   social_links:
     twitter: codingwithnoah
     github:  phptuts
     linkedIn: in/noah-g-2b8b8776 # format: locale/username
+  header_pages:
+    - about.md
+    - events.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
