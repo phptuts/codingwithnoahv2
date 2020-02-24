@@ -23,35 +23,45 @@ email: glaserpower@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a wesbite hosting my coding tutorials by a fun php / web / javascript
   / typescript developer.
-baseurl: 'codingwithnoahv2/' # the subpath of your site, e.g. /blog
-url: 'https://phptuts.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://phptuts.github.io/codingwithnoahv2/' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codingwithnoah
 github_username: phptuts
 show_excerpts: true
 
-plainwhite:
-  name: Noah Glaser
-  tagline: Fun Tutorials
-  date_format: '%b %-d, %Y'
-  sitemap: true
-  navigation:
-    - title: Home
-      url: '/'
-    - title: About
-      url: '/about'
-    - title: Events
-      url: '/events'
+# plainwhite:
+#   name: Noah Glaser
+#   tagline: Fun Tutorials
+#   date_format: '%b %-d, %Y'
+#   sitemap: true
+#   navigation:
+#     - title: Home
+#       url: '/'
+#     - title: About
+#       url: '/about'
+#     - title: Events
+#       url: '/events'
+
+#   social_links:
+#     twitter: codingwithnoah
+#     github: phptuts
+#     linkedIn: us/noahglaser # format: locale/username
+
+# Build settings
+remote_theme: thelehhman/texture
+theme: texture
+
+texture:
+  title: Noah Glaser
+  tagline: Coding With Noah
+  date_format: "%b %-d, %Y"
+  style: blue
 
   social_links:
     twitter: codingwithnoah
-    github: phptuts
-    linkedIn: us/noahglaser # format: locale/username
+    github:  phptuts
+    linkedIn: in/noah-g-2b8b8776 # format: locale/username
 
-# Build settings
-remote_theme: thelehhman/plainwhite-jekyll
-theme: plainwhite
-plugins:
-  - jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
