@@ -23,7 +23,7 @@ email: glaserpower@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a wesbite hosting my coding tutorials by a fun php / web / javascript
   / typescript developer.
-baseurl: 'codingwithnoahv2' # the subpath of your site, e.g. /blog
+baseurl: '/codingwithnoahv2' # the subpath of your site, e.g. /blog
 url: 'https://phptuts.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: codingwithnoah
 github_username: phptuts
