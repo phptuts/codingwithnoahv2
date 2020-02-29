@@ -49,7 +49,6 @@ show_excerpts: true
 
 # Build settings
 remote_theme: thelehhman/texture
-theme: texture
 
 texture:
   title: Noah Glaser
