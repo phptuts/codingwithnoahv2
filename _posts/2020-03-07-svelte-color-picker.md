@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Svelte Color Picker Part 1
+title: Svelte Color Picker
 date: 2020-03-07 16:32 -0800
-tags: ['svelte color picker', 'svelte', 'svelte material ui', 'blueprint css']
+tags: ['svelte color picker', 'svelte', 'svelte material ui', 'blueprint css', 'prop binding', 'custom stores', 'writeable stores']
 ---
 
 ## Part 1
@@ -10,13 +10,17 @@ tags: ['svelte color picker', 'svelte', 'svelte material ui', 'blueprint css']
 
 ## Part 2
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eqO9n_6KyLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Part 3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Ve_w6szfYo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Code 
 
-[Code](https://github.com/phptuts/yt-svelte-color-picker-1)
+[Code for part 1](https://github.com/phptuts/yt-svelte-color-picker-1)
 
-[Code](https://github.com/phptuts/yt-svelte-color-picker-2)
+[Code for part 2 & 3](https://github.com/phptuts/yt-svelte-color-picker-2)
 
 ## Demo
 
@@ -150,7 +154,7 @@ function serve() {
 - [Slider Package](https://github.com/hperrin/svelte-material-ui/tree/master/packages/slider)
 - [Switch Package](https://github.com/hperrin/svelte-material-ui/tree/master/packages/switch)
 - [Text Field](https://github.com/hperrin/svelte-material-ui/tree/master/packages/textfield)
-- [Datatable](https://github.com/hperrin/svelte-material-ui/tree/master/packages/datatable)
+- [Datatable](https://github.com/hperrin/svelte-material-ui/tree/master/packages/data-table)
 
 ## Revelant Svelte Tutorials
 
