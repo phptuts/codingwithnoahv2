@@ -2,6 +2,7 @@
 layout: post
 title: How to control  RGB LED with an Arduino directly from the chrome browser
 date: 2020-08-30 20:10 -0700
+categories: ['arduino', 'arduino ide', 'web', 'chrome serial', 'navigator serial']
 ---
 
 
@@ -39,8 +40,8 @@ The RGB led uses the red, green, and blue color model to create colors.  These c
 ## Helpful Links
 
 - [Specs for Chrome Navigator Serial](https://wicg.github.io/serial/)
-- [C Function Code](https://stackoverflow.com/a/14824108)
-- [hex to rgb function](https://stackoverflow.com/a/5624139)
+- [Arduino Parse Function](https://stackoverflow.com/a/14824108)
+- [hex to rgb javascript function](https://stackoverflow.com/a/5624139)
 
 ## Build Instructions
 
