@@ -5,7 +5,7 @@ date: 2020-08-30 20:10 -0700
 categories: ['arduino', 'arduino ide', 'web', 'chrome serial', 'navigator serial']
 ---
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/USwKQEpAMKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This project uses chrome serial, navigator serial to control an rgb led directly from the chrome browser.  In order for this to work you will have to go to chrome://flags and turn on the "Experimental Web Platform features".  This will only work with the chrome web browser.
 
