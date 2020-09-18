@@ -4,6 +4,8 @@ title: Arduino Chrome Serial with Led Matrix
 date: 2020-09-16 21:31 -0700
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XsAFvrEJv7U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This project teaches you how to wire and code an led matrix that can talk directly to the chrome browser.  It uses an experimental api called navigator serial.
 
 [Demo Link](https://phptuts.github.io/led-matrix-led-yt/)
