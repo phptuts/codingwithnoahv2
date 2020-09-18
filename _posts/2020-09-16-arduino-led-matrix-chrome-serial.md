@@ -12,6 +12,8 @@ This project teaches you how to wire and code an led matrix that can talk direct
 
 [Code](https://github.com/phptuts/led-matrix-led-yt)
 
+[Led Matrix Arduino Library Used](https://github.com/valmat/LedMatrix)
+
 ## Kit
 
 ![Kit](/assets/2020-09-16-arduino-led-matrix-chrome-serial/kit.jpg)
