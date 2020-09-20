@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roblox leaderboard withrotating coin
+title: Roblox leaderboard with rotating coin
 date: 2020-09-19 18:42 -0700
 tags: ['Roblox']
 ---
